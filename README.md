@@ -4,7 +4,7 @@ A collaborative project to build an ETL pipeline using Python, Pandas, and Postg
 # Background
 
 In this project, I practiced building an ETL pipeline to process crowdfunding data from Excel files. I extracted and transformed the data, created four CSV files, and then used the CSV files to create an Entity Relationship Diagram (ERD) and a table schema. Finally, I loaded the CSV files into a PostgreSQL database.
-![image alt(https://github.com/Irofo56/Crowdfunding_ETL/blob/b08b13250d98cd50c100673102a5fccafe40af49/Crowdfunding_erd.png)
+![image alt]https://github.com/Irofo56/Crowdfunding_ETL/blob/f849bf9c642a6fd3f9ed738964556ffe6e0b6369/Crowdfunding_erd.png
 
 # Features
 
